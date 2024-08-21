@@ -1,0 +1,46 @@
+body {
+    background-color: #1a1a2e;
+}
+
+.card {
+    background-color: #16213e;
+    border: 1px solid #0f3460;
+}
+
+.input-group-text {
+    background-color: #0f3460;
+    border: none;
+}
+
+.form-control {
+    background-color: #16213e;
+    color: #fff;
+    border: 1px solid #0f3460;
+}
+
+.btn-primary {
+    background-color: #0f3460;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #1a1a2e;
+    border: none;
+}
+
+a.text-primary {
+    color: #0f3460;
+}
+
+a.text-primary:hover {
+    color: #1a1a2e;
+    text-decoration: underline;
+}
+
+input::placeholder {
+    color: #aaa !important;
+}
+
+#id_username {
+    margin-bottom: 1em !important;
+}
