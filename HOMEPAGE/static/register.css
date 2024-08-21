@@ -40,7 +40,3 @@ a.text-primary:hover {
 input::placeholder {
     color: #aaa !important;
 }
-
-#id_username {
-    margin-bottom: 1em !important;
-}
